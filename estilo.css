@@ -1,0 +1,10 @@
+h1{
+    color: rgb(6, 174, 204);
+    text-align: center;
+}
+body {
+    font-family: 'Tangerine', serif;
+    font-size: 20px;
+    text-shadow: 4px 4px 4px #aaa;
+  }
+/*comentario em css*/
